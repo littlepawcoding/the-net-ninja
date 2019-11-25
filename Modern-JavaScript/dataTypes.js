@@ -7,3 +7,5 @@
 // Undefined - empty values but given automatically
 // Objects - arrays, object literals
 // Symbol
+
+// JS loosly typed language
