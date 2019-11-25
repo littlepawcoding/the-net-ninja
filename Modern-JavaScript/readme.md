@@ -4,9 +4,7 @@
 
 Contents:
 
-0. basics.html - to enable live server
-1. dataTypes.js
-1. strings.js
+1. JavaScript Basics (folder)
 
 ## Resources:
 
