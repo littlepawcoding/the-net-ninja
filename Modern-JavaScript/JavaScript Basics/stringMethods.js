@@ -5,11 +5,15 @@ let email = "dug@thepupdug.co.uk";
 // .lastIndexOf - finds last index of whatever
 // let result = email.lastIndexOf("t"); // 4
 
-// .slice - takes a section from a string
+// .slice - takes a section from a string (you choose start and end)
 // let result = email.slice(0, 3); // dug
 
-// .substr
-let result = email.substr(4, 9); // thepupdug
+// .substr - takes a section from a string (you choose start only)
+// let result = email.substr(4, 9); // thepupdug
+
+// .replace - changes one character with another character
+// let result = email.replace(".co.uk", ".com"); // dug@thepupdug.com
+let result = email.replace("d", "p"); // pug@thepupdug.co.uk
 
 console.log(result);
 
@@ -25,5 +29,6 @@ console.log(result);
 - start from the beginning use position 0
 - substr is very similar to slice, we still pass two arguments and the first is still where we want to start, this time the second argument is how many characters we want to use.
 - substr will grab the characters from where you set it and then take how many you set it regardless of placement, whereas slice you need to specify exactly where you want to slice
-
+- take note that .replace will only replace the first instance of the character
+- for example replace "d" with "p" it will only replace the first dug to pug
 */
