@@ -8,3 +8,5 @@ Contents:
 
 1. dataTypes.js
 2. strings.js
+3. stringMethods.js
+4. numbers.js
