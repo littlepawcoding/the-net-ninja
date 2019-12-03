@@ -13,3 +13,4 @@ Contents:
 5. templateStrings.js
 6. arrays.js
 7. null&undefined.js
+8. booleans&comparisons.js
