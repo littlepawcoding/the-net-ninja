@@ -14,3 +14,4 @@ Contents:
 6. arrays.js
 7. null&undefined.js
 8. booleans&comparisons.js
+9. loose vs strict comparison
