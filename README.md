@@ -1,4 +1,4 @@
-![alt text](netNinjaBG.png "The Net Ninja logo banner")
+![The Net Ninja logo banner](netNinjaBG.png "The Net Ninja")
 
 # The Net Ninja
 
