@@ -15,3 +15,4 @@ Contents:
 7. null&undefined.js
 8. booleans&comparisons.js
 9. loose vs strict comparison
+10. typeConversion.js
