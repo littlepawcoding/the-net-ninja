@@ -1,0 +1,6 @@
+// VARIABLES & BLOCK SCOPE
+
+// NOTES:
+/*
+
+*/
