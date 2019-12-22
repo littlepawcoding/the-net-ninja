@@ -4,8 +4,6 @@
 
 All notes, exercises and projects related to The Net Ninja material stored here.
 
-- ## Modern JavaScript
-
-JavaScript course with Udemy.
+- ### Modern JavaScript - (JavaScript course with Udemy)
 
 ## Resources:
