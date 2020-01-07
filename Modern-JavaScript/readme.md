@@ -4,7 +4,9 @@
 
 Contents:
 
-1. JavaScript Basics (folder)
+1. JavaScript Basics
+2. Control Flow Basics
+3. Functions and Methods
 
 ## Resources:
 
